@@ -12,6 +12,7 @@
 - [《精通JavaScript》](./JavaScript/精通JavaScript.pdf)
 - [《JavaScript DOM编程艺术》](./JavaScript/JavaScript_DOM编程艺术.pdf)
 - [《基于MVC的JavaScript Web富应用开发》](./JavaScript/基于MVC的JavaScript_Web富应用开发.pdf)
+
 ## Node.js
 
 - [《深入浅出node.js》](./Nodejs/深入浅出Node.js.pdf)
@@ -21,6 +22,10 @@
 - [《Node.js开发指南》](./Nodejs/Node.js开发指南.pdf)
 - [《了不起的Node.js》](./Nodejs/了不起的Node.js.pdf)
 - [《Node即学即用》](./Nodejs/Node即学即用.pdf)
+
+## Go
+
+- [《Go程序设计语言》](./Go/go程序设计语言.pdf)
 
 ## MySql
 
@@ -37,3 +42,9 @@
 
 - [《HTTP权威指南》](./HTTP/HTTP权威指南.pdf)
 - [《Web性能权威指南》](./HTTP/Web性能权威指南.pdf)
+
+## 其他
+
+- [《代码整洁之道》](./other/代码整洁之道.pdf)
+- [《设计模式：可复用面向对象软件的基础》](./other/设计模式：可复用面向对象软件的基础.pdf)
+- [《重构_改善既有代码的设计》](./other/重构_改善既有代码的设计.pdf)
