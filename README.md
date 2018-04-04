@@ -23,6 +23,11 @@
 - [《了不起的Node.js》](./Nodejs/了不起的Node.js.pdf)
 - [《Node即学即用》](./Nodejs/Node即学即用.pdf)
 
+## C++
+
+- [《C++Primer第五版》](./C++/C++Primer第五版.pdf)
+- [《C++编程思想第1卷》](./C++/C++编程思想第1卷.pdf)
+
 ## Go
 
 - [《Go程序设计语言》](./Go/go程序设计语言.pdf)
