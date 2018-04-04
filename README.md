@@ -32,6 +32,10 @@
 
 - [《Go程序设计语言》](./Go/go程序设计语言.pdf)
 
+## Python
+
+- [《Python核心编程（第2版）》](./Python/python核心编程.pdf)
+
 ## MySql
 
 - [《高性能MySQL（第3版）》](./SQL/高性能MySQL（第3版）中文版.pdf)
