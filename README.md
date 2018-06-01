@@ -34,6 +34,7 @@
 
 ## Python
 
+- [《Python编程：从入门到实践》](./Python/Python编程：从入门到实践.pdf)
 - [《Python核心编程（第2版）》](./Python/python核心编程.pdf)
 
 ## MySql
