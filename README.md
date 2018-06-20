@@ -43,7 +43,7 @@
 - [《Docker从入门到实践》](./Docker/Docker从入门到实践.pdf)
 <!-- - [《Docker容器与容器云（第2版）》](./Docker/Docker容器与容器云（第2版）.pdf) -->
 
-## MySql
+## MySQL
 
 - [《高性能MySQL（第3版）》](./SQL/高性能MySQL（第3版）中文版.pdf)
 - [《SQL基础教程（第3版）》](./SQL/SQL基础教程.pdf)
