@@ -3,7 +3,7 @@
 - [《你不知道的JavaScript（上卷）》](./JavaScript/你不知道的JavaScript（上卷）.pdf)
 - [《你不知道的JavaScript（中卷）》](./JavaScript/你不知道的JavaScript（中卷）.pdf)
 - [《JavaScript高级程序设计第三版》](./JavaScript/JavaScript高级程序设计(第3版).pdf)
-- [《JavaScript权威指南(第6版)》](./JavaScript/JavaScript权威指南(第6版).pdf);
+- [《JavaScript权威指南(第6版)》](./JavaScript/JavaScript权威指南(第6版).pdf)
 - [《JavaScript语言精粹》](./JavaScript/JavaScript语言精粹.pdf)
 - [《JavaScript设计模式与开发实践》](./JavaScript/JavaScript设计模式与开发实践.pdf)
 - [《JavaScript函数式编程》](./JavaScript/JavaScript函数式编程.pdf)
