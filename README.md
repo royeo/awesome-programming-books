@@ -39,6 +39,11 @@
 - [《Python Cookbook（第3版）》](./Python/Python_Cookbook.pdf)
 <!-- - [《Python源码剖析》](./Python/Python源码剖析.pdf) -->
 
+## Linux
+
+- [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程（第三版）.pdf)
+- [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
+
 ## Git
 
 - [《Pro Git》](./Git/ProGit中文版.pdf)
