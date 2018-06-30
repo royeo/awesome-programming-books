@@ -39,14 +39,14 @@
 - [《Python Cookbook（第3版）》](./Python/Python_Cookbook.pdf)
 <!-- - [《Python源码剖析》](./Python/Python源码剖析.pdf) -->
 
+## Git
+
+- [《Pro Git》](./Git/ProGit中文版.pdf)
+
 ## Docker
 
 - [《Docker从入门到实践》](./Docker/Docker从入门到实践.pdf)
 <!-- - [《Docker容器与容器云（第2版）》](./Docker/Docker容器与容器云（第2版）.pdf) -->
-
-## Git
-
-- [《Pro Git》](./Git/ProGit中文版.pdf)
 
 ## MySQL
 
