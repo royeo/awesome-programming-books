@@ -41,6 +41,7 @@
 
 ## Linux
 
+- [《UNIX网络编程第1卷》](./Linux/UNIX网络编程第1卷.pdf)
 - [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程(第三版).pdf)
 - [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
 
@@ -51,7 +52,7 @@
 ## Docker
 
 - [《Docker从入门到实践》](./Docker/Docker从入门到实践.pdf)
-<!-- - [《Docker容器与容器云（第2版）》](./Docker/Docker容器与容器云（第2版）.pdf) -->
+- [《Docker容器与容器云（第2版）》](./Docker/Docker容器与容器云（第2版）.pdf)
 
 ## MySQL
 
@@ -73,6 +74,7 @@
 
 - [《HTTP权威指南》](./HTTP/HTTP权威指南.pdf)
 - [《Web性能权威指南》](./HTTP/Web性能权威指南.pdf)
+- [《图解HTTP》](./HTTP/图解HTTP.pdf)
 
 ## 设计模式
 
