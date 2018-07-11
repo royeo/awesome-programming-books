@@ -34,10 +34,17 @@
 
 ## Python
 
+- [《Python基础教程（第2版）》](./Python/Python基础教程（第2版）.pdf)
 - [《Python编程：从入门到实践》](./Python/Python编程：从入门到实践.pdf)
 - [《Python核心编程（第2版）》](./Python/python核心编程.pdf)
 - [《Python Cookbook（第3版）》](./Python/Python_Cookbook.pdf)
 <!-- - [《Python源码剖析》](./Python/Python源码剖析.pdf) -->
+
+<!-- ## PHP
+
+- [《PHP和MySQL.Web开发》](./PHP/PHP和MySQL.Web开发.pdf)
+- [《深入PHP：面向对象、模式与实践》](./PHP/深入PHP：面向对象、模式与实践.pdf)
+- [《诗意的边缘PHP顶级框架Zend Framework开发实战》](./PHP/诗意的边缘PHP顶级框架ZendFramework开发实战.pdf) -->
 
 ## Linux
 
@@ -88,4 +95,5 @@
 - [《重构_改善既有代码的设计》](./Other/重构_改善既有代码的设计.pdf)
 - [《程序员的职业素养》](./Other/程序员的职业素养.pdf)
 - [《高性能网站建设指南》](./Other/高性能网站建设指南.pdf)
+<!-- - [《大型网站技术架构：核心原理与案例分析》](./Other/大型网站技术架构：核心原理与案例分析.pdf) -->
 
