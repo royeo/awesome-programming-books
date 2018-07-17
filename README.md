@@ -1,6 +1,6 @@
 ## Introduction
 
-Focus on concepts，not syntax.
+> Focus on concepts，not syntax.
 
 ## JavaScript
 
