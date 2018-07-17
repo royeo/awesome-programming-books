@@ -1,4 +1,4 @@
-## Introduction
+## Preface
 
 > Focus on concepts，not syntax.
 
