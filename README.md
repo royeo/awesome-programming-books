@@ -1,3 +1,7 @@
+## Introduction
+
+Focus on concepts，not syntax.
+
 ## JavaScript
 
 - [《你不知道的JavaScript（上卷）》](./JavaScript/你不知道的JavaScript（上卷）.pdf)
