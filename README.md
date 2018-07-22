@@ -81,6 +81,7 @@
 ## MongoDB
 
 - [《MongoDB实战》](./MongoDB/MongoDB实战.pdf)
+- [《MongoDB权威指南》](./MongoDB/MongoDB权威指南.pdf)
 - [《深入学习MongoDB》](./MongoDB/深入学习MongoDB.pdf)
 
 ## Redis
