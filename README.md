@@ -52,15 +52,15 @@
 - [《深入PHP：面向对象、模式与实践》](./PHP/深入PHP：面向对象、模式与实践.pdf)
 - [《诗意的边缘PHP顶级框架Zend Framework开发实战》](./PHP/诗意的边缘PHP顶级框架ZendFramework开发实战.pdf) -->
 
+## Git
+
+- [《Pro Git中文版》](./Git/ProGit中文版.pdf)
+
 ## Linux
 
 - [《UNIX网络编程第1卷》](./Linux/UNIX网络编程第1卷.pdf)
 - [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程(第三版).pdf)
 - [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
-
-## Git
-
-- [《Pro Git》](./Git/ProGit中文版.pdf)
 
 ## Docker
 
