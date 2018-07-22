@@ -57,6 +57,7 @@
 ## Git
 
 - [《Pro Git中文版》](./Git/ProGit中文版.pdf)
+- [《GitHub入门与实践》](./Git/GitHub入门与实践.pdf)
 
 ## Linux
 
