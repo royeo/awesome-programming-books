@@ -72,10 +72,11 @@
 
 ## MySQL
 
-- [《高性能MySQL（第3版）》](./SQL/高性能MySQL（第3版）中文版.pdf)
-- [《SQL基础教程（第3版）》](./SQL/SQL基础教程.pdf)
-- [《MySQL必知必会》](./SQL/MySQL必知必会.pdf)
-- [《SQL学习指南》](./SQL/SQL学习指南.pdf)
+- [《高性能MySQL（第3版）》](./MySQL/高性能MySQL（第3版）中文版.pdf)
+- [《SQL基础教程（第3版）》](./MySQL/SQL基础教程.pdf)
+- [《MySQL必知必会》](./MySQL/MySQL必知必会.pdf)
+- [《SQL学习指南》](./MySQL/SQL学习指南.pdf)
+- [《MySQL性能调优与架构设计》](./MySQL/MySQL性能调优与架构设计.pdf)
 
 ## MongoDB
 
@@ -84,7 +85,7 @@
 
 ## Redis
 
-- [《Redis实战》](./SQL/Redis实战.pdf)
+- [《Redis实战》](./Redis/Redis实战.pdf)
 
 ## HTTP
 
@@ -94,7 +95,7 @@
 
 ## 设计模式
 
-- [《设计模式：可复用面向对象软件的基础》](./Other/设计模式：可复用面向对象软件的基础.pdf)
+- [《设计模式：可复用面向对象软件的基础》](./DesignPatterns/设计模式：可复用面向对象软件的基础.pdf)
 
 ## 其他
 
