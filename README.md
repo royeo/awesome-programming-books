@@ -28,6 +28,10 @@
 - [《了不起的Node.js》](./Nodejs/了不起的Node.js.pdf)
 - [《Node即学即用》](./Nodejs/Node即学即用.pdf)
 
+## C
+
+- [《C程序设计语言（第2版）》](./C/C程序设计语言（第2版）.pdf)
+
 ## C++
 
 - [《C++Primer第五版》](./C++/C++Primer第五版.pdf)
