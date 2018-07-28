@@ -65,6 +65,7 @@
 
 ## Linux
 
+- [《Linux内核设计与实现（第三版）》](./Linux/Linux内核设计与实现（第三版）.pdf)
 - [《UNIX网络编程第1卷》](./Linux/UNIX网络编程第1卷.pdf)
 - [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程(第三版).pdf)
 - [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
