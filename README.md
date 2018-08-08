@@ -104,7 +104,7 @@
 
 - [《Redis实战》](./Redis/Redis实战.pdf)
 
-## Design Patterns
+## Design Pattern
 
 - [《设计模式：可复用面向对象软件的基础》](./DesignPatterns/设计模式：可复用面向对象软件的基础.pdf)
 
