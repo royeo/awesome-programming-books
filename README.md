@@ -104,11 +104,11 @@
 
 - [《Redis实战》](./Redis/Redis实战.pdf)
 
-## 设计模式
+## Design Patterns
 
 - [《设计模式：可复用面向对象软件的基础》](./DesignPatterns/设计模式：可复用面向对象软件的基础.pdf)
 
-## 其他
+## Others
 
 - [《如何阅读一本书》](./Other/如何阅读一本书.pdf)
 - [《代码整洁之道》](./Other/代码整洁之道.pdf)
