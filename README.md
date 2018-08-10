@@ -104,6 +104,10 @@
 
 - [《Redis实战》](./Redis/Redis实战.pdf)
 
+## Nginx
+
+- [《深入理解Nginx：模块开发与架构解析（第2版）》](./Nginx/深入理解Nginx：模块开发与架构解析（第2版）.pdf)
+
 ## Design Pattern
 
 - [《设计模式：可复用面向对象软件的基础》](./DesignPatterns/设计模式：可复用面向对象软件的基础.pdf)
