@@ -103,6 +103,7 @@
 ## Redis
 
 - [《Redis实战》](./Redis/Redis实战.pdf)
+- [《Redis设计与实现》](./Redis/Redis设计与实现.pdf)
 
 ## Nginx
 
