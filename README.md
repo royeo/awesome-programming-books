@@ -89,10 +89,10 @@
 ## MySQL
 
 - [《高性能MySQL（第3版）》](./MySQL/高性能MySQL（第3版）中文版.pdf)
+- [《MySQL性能调优与架构设计》](./MySQL/MySQL性能调优与架构设计.pdf)
 - [《SQL基础教程（第3版）》](./MySQL/SQL基础教程.pdf)
 - [《MySQL必知必会》](./MySQL/MySQL必知必会.pdf)
 - [《SQL学习指南》](./MySQL/SQL学习指南.pdf)
-- [《MySQL性能调优与架构设计》](./MySQL/MySQL性能调优与架构设计.pdf)
 
 ## MongoDB
 
