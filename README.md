@@ -50,7 +50,7 @@
 - [《Python编程：从入门到实践》](./Python/Python编程：从入门到实践.pdf)
 - [《Python核心编程（第2版）》](./Python/python核心编程.pdf)
 - [《Python Cookbook（第3版）》](./Python/Python_Cookbook.pdf)
-<!-- - [《Python源码剖析》](./Python/Python源码剖析.pdf) -->
+- [《Python源码剖析》](./Python/Python源码剖析.pdf)
 
 <!-- ## PHP
 
