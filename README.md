@@ -111,8 +111,8 @@
 
 ## Design Pattern
 
-- [《设计模式：可复用面向对象软件的基础》](./DesignPattern/设计模式：可复用面向对象软件的基础.pdf)
 - [《Head First 设计模式》](./DesignPattern/Head_First_设计模式.pdf)
+- [《设计模式：可复用面向对象软件的基础》](./DesignPattern/设计模式：可复用面向对象软件的基础.pdf)
 
 ## Others
 
