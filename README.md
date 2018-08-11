@@ -65,8 +65,11 @@
 
 ## Linux
 
-- [《UNIX网络编程第1卷》](./Linux/UNIX网络编程第1卷.pdf)
+- [《UNIX操作系统设计》](./Linux/UNIX操作系统设计.pdf)
+- [《UNIX网络编程卷1：套接字API》](./Linux/UNIX网络编程卷1：套接字API.pdf)
+- [《UNIX网络编程卷2：进程间通信》](./Linux/UNIX网络编程卷2：进程间通信.pdf)
 - [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程(第三版).pdf)
+- [《Linux内核设计与实现（第三版）》](./Linux/Linux内核设计与实现（第三版）.pdf)
 - [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
 
 ## TCP
