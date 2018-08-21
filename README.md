@@ -52,12 +52,6 @@
 - [《Python Cookbook（第3版）》](./Python/Python_Cookbook.pdf)
 - [《Python源码剖析》](./Python/Python源码剖析.pdf)
 
-## PHP
-
-- [《PHP和MySQL.Web开发》](./PHP/PHP和MySQL.Web开发.pdf)
-- [《深入PHP：面向对象、模式与实践》](./PHP/深入PHP：面向对象、模式与实践.pdf)
-<!-- - [《诗意的边缘PHP顶级框架Zend Framework开发实战》](./PHP/诗意的边缘PHP顶级框架ZendFramework开发实战.pdf) -->
-
 ## Git
 
 - [《Pro Git中文版》](./Git/ProGit中文版.pdf)
