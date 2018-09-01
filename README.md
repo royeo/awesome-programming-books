@@ -118,7 +118,7 @@
 
 ## Data Structures and Algorithms
 
-- [《数据结构与算法分析：C语言描述（第2版）》](./DataStructuresAlgorithms/数据结构与算法分析：C语言描述（第2版）.pdf)
+- [《数据结构与算法分析：C语言描述（第2版）》](./Algorithms/数据结构与算法分析：C语言描述（第2版）.pdf)
 
 ## Others
 
