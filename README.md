@@ -119,6 +119,7 @@
 ## Data Structures and Algorithms
 
 - [《数据结构与算法分析：C语言描述（第2版）》](./Algorithms/数据结构与算法分析：C语言描述（第2版）.pdf)
+- [《编程之美：微软技术面试心得》](./Algorithms/编程之美：微软技术面试心得.pdf)
 
 ## Others
 
