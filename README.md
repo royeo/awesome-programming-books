@@ -119,6 +119,7 @@
 ## Data Structures and Algorithms
 
 - [《算法（第四版）》](./Algorithms/算法（第四版）.pdf)
+- [《算法设计与分析（第3版）》](./Algorithms/算法设计与分析（第3版）.pdf)
 - [《数据结构与算法分析：C语言描述（第2版）》](./Algorithms/数据结构与算法分析：C语言描述（第2版）.pdf)
 - [《编程之美：微软技术面试心得》](./Algorithms/编程之美：微软技术面试心得.pdf)
 - [《剑指offer名企面试官精讲典型编程题》](./Algorithms/剑指offer名企面试官精讲典型编程题.pdf)
