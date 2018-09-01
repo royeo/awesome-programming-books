@@ -115,6 +115,11 @@
 
 - [《深入理解Nginx：模块开发与架构解析（第2版）》](./Nginx/深入理解Nginx：模块开发与架构解析（第2版）.pdf)
 
+## Clean Code
+
+- [《代码整洁之道》](./CleanCode/代码整洁之道.pdf)
+- [《编写可读代码的艺术》](./CleanCode/编写可读代码的艺术.pdf)
+
 ## Design Pattern
 
 - [《Head First 设计模式》](./DesignPattern/HeadFirst设计模式.pdf)
@@ -133,8 +138,6 @@
 ## Others
 
 - [《如何阅读一本书》](./Others/如何阅读一本书.pdf)
-- [《代码整洁之道》](./Others/代码整洁之道.pdf)
-- [《编写可读代码的艺术》](./Others/编写可读代码的艺术.pdf)
 - [《重构：改善既有代码的设计》](./Others/重构：改善既有代码的设计.pdf)
 - [《程序员的职业素养》](./Others/程序员的职业素养.pdf)
 - [《高性能网站建设指南》](./Others/高性能网站建设指南.pdf)
