@@ -118,7 +118,7 @@
 
 ## Data Structures and Algorithms
 
-- [《算法（第四版）》](./Algorithms/算法（第四版）.pdf)
+- [《算法（第4版）》](./Algorithms/算法（第4版）.pdf)
 - [《算法导论（第2版）》](./Algorithms/算法导论（第2版）.pdf)
 - [《算法设计与分析（第3版）》](./Algorithms/算法设计与分析（第3版）.pdf)
 - [《算法心得：高效算法的奥秘（第2版）》](./Algorithms/算法心得：高效算法的奥秘（第2版）.pdf)
