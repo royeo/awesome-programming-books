@@ -111,6 +111,10 @@
 - [《Head First 设计模式》](./DesignPattern/HeadFirst设计模式.pdf)
 - [《设计模式：可复用面向对象软件的基础》](./DesignPattern/设计模式：可复用面向对象软件的基础.pdf)
 
+## Data Structures and Algorithms
+
+- [《数据结构与算法分析：C语言描述（第2版）》](./DataStructuresAlgorithms/数据结构与算法分析：C语言描述（第2版）.pdf)
+
 ## Others
 
 - [《如何阅读一本书》](./Others/如何阅读一本书.pdf)
