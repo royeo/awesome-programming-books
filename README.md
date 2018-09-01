@@ -67,10 +67,11 @@
 
 ## Linux
 
-- [《UNIX操作系统设计》](./Linux/UNIX操作系统设计.pdf)
+- [《UNIX编程艺术》](./Linux/UNIX编程艺术.pdf)
+- [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程(第三版).pdf)
 - [《UNIX网络编程卷1：套接字API》](./Linux/UNIX网络编程卷1：套接字API.pdf)
 - [《UNIX网络编程卷2：进程间通信》](./Linux/UNIX网络编程卷2：进程间通信.pdf)
-- [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程(第三版).pdf)
+- [《UNIX操作系统设计》](./Linux/UNIX操作系统设计.pdf)
 - [《Linux内核设计与实现（第三版）》](./Linux/Linux内核设计与实现（第三版）.pdf)
 - [《深入理解linux内核（第三版）》](./Linux/深入理解linux内核（第三版）.pdf)
 - [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
