@@ -57,6 +57,11 @@
 - [《Pro Git中文版》](./Git/ProGit中文版.pdf)
 - [《GitHub入门与实践》](./Git/GitHub入门与实践.pdf)
 
+## OS
+
+- [《深入理解计算机系统》](./OS/深入理解计算机系统.pdf)
+- [《现代操作系统（第三版）》](./OS/现代操作系统（第三版）.pdf)
+
 ## Linux
 
 - [《UNIX操作系统设计》](./Linux/UNIX操作系统设计.pdf)
