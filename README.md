@@ -79,6 +79,10 @@
 - [《深入理解linux内核（第三版）》](./Linux/深入理解linux内核（第三版）.pdf)
 - [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
 
+## Compile
+
+- [《编译原理（第2版）》](./Compile/编译原理（第2版）.pdf)
+
 ## TCP
 
 - [《TCP/IP详解 卷1：协议》](./TCP/TCP_IP详解卷1：协议.pdf)
