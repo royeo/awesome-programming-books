@@ -55,11 +55,6 @@
 - [《Python Cookbook（第3版）》](./Python/Python_Cookbook.pdf)
 - [《Python源码剖析》](./Python/Python源码剖析.pdf)
 
-## Git
-
-- [《Pro Git中文版》](./Git/ProGit中文版.pdf)
-- [《GitHub入门与实践》](./Git/GitHub入门与实践.pdf)
-
 ## OS
 
 - [《深入理解计算机系统》](./OS/深入理解计算机系统.pdf)
@@ -94,6 +89,11 @@
 - [《HTTP权威指南》](./HTTP/HTTP权威指南.pdf)
 - [《Web性能权威指南》](./HTTP/Web性能权威指南.pdf)
 - [《图解HTTP》](./HTTP/图解HTTP.pdf)
+
+## Git
+
+- [《Pro Git中文版》](./Git/ProGit中文版.pdf)
+- [《GitHub入门与实践》](./Git/GitHub入门与实践.pdf)
 
 ## Docker
 
