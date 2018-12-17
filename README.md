@@ -23,7 +23,7 @@
 - [Nginx](#nginx)
 - [Clean Code](#clean-code)
 - [Design Pattern](#design-pattern)
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [Algorithms](#algorithms)
 - [System](#system)
 - [Others](#others)
 
@@ -160,7 +160,7 @@
 - [《Head First 设计模式》](./DesignPattern/HeadFirst设计模式.pdf)
 - [《设计模式：可复用面向对象软件的基础》](./DesignPattern/设计模式：可复用面向对象软件的基础.pdf)
 
-## Data Structures and Algorithms
+## Algorithms
 
 - [《算法（第4版）》](./Algorithms/算法（第4版）.pdf)
 - [《算法导论（第2版）》](./Algorithms/算法导论（第2版）.pdf)
