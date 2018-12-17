@@ -2,19 +2,6 @@
 
 > Focus on concepts，not syntax.
 
-## C
-
-- [《C程序设计语言（第2版）》](./C/C程序设计语言（第2版）.pdf)
-- [《C专家编程》](./C/C专家编程.pdf)
-- [《C语言接口与实现》](./C/C语言接口与实现.pdf)
-- [《C陷阱与缺陷》](./C/C陷阱与缺陷.pdf)
-
-## C++
-
-<!-- - [《C++ Primer（第5版）》](./C++/C++%20Primer（第5版）.pdf) -->
-- [《C++ Primer Plus（第5版）》](./C++/C++%20Primer%20Plus（第5版）.pdf)
-- [《C++编程思想（第1卷）》](./C++/C++编程思想（第1卷）.pdf)
-
 ## JavaScript
 
 - [《你不知道的JavaScript（上卷）》](./JavaScript/你不知道的JavaScript（上卷）.pdf)
@@ -40,6 +27,19 @@
 - [《Node.js开发指南》](./Nodejs/Node.js开发指南.pdf)
 - [《了不起的Node.js》](./Nodejs/了不起的Node.js.pdf)
 - [《Node即学即用》](./Nodejs/Node即学即用.pdf)
+
+## C
+
+- [《C程序设计语言（第2版）》](./C/C程序设计语言（第2版）.pdf)
+- [《C专家编程》](./C/C专家编程.pdf)
+- [《C语言接口与实现》](./C/C语言接口与实现.pdf)
+- [《C陷阱与缺陷》](./C/C陷阱与缺陷.pdf)
+
+## C++
+
+<!-- - [《C++ Primer（第5版）》](./C++/C++%20Primer（第5版）.pdf) -->
+- [《C++ Primer Plus（第5版）》](./C++/C++%20Primer%20Plus（第5版）.pdf)
+- [《C++编程思想（第1卷）》](./C++/C++编程思想（第1卷）.pdf)
 
 ## Golang
 
