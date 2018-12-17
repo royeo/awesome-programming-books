@@ -36,8 +36,8 @@
 
 ## C++
 
-- [《C++Primer第五版》](./C++/C++Primer第五版.pdf)
-- [《C++编程思想第1卷》](./C++/C++编程思想第1卷.pdf)
+- [《C++ Primer Plus（第5版）》](./C++/C++%20Primer%20Plus（第5版）.pdf)
+- [《C++编程思想（第1卷）》](./C++/C++编程思想（第1卷）.pdf)
 
 ## JavaScript
 
