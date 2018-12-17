@@ -1,33 +1,6 @@
 ## Preface
 
-📚  经典技术书籍 PDF 文件，持续更新...
-
 > Focus on concepts，not syntax.
-
-## Table of Contents
-
-- [C](#c)
-- [C++](#c)
-- [JavaScript](#javascript)
-- [Node.js](#nodejs)
-- [Golang](#golang)
-- [Python](#python)
-- [OS](#os)
-- [Linux](#linux)
-- [Compile](#compile)
-- [TCP](#tcp)
-- [HTTP](#http)
-- [Git](#git)
-- [Docker](#docker)
-- [MySQL](#mysql)
-- [MongoDB](#mongodb)
-- [Redis](#redis)
-- [Nginx](#nginx)
-- [Clean Code](#clean-code)
-- [Design Pattern](#design-pattern)
-- [Algorithms](#algorithms)
-- [System](#system)
-- [Others](#others)
 
 ## C
 
