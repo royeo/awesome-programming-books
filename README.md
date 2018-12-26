@@ -56,12 +56,13 @@
 - [《Python Cookbook（第3版）》](./Python/Python_Cookbook.pdf)
 - [《Python源码剖析》](./Python/Python源码剖析.pdf)
 
-## OS
+## Computer System
 
-- [《深入理解计算机系统》](./OS/深入理解计算机系统.pdf)
-- [《现代操作系统（第4版）》](./OS/现代操作系统（第4版）.pdf)
-- [《编码：隐匿在计算机软硬件背后的语言》](./OS/编码：隐匿在计算机软硬件背后的语言.pdf)
-- [《计算机程序的构造和解释（第2版）》](./OS/计算机程序的构造和解释（第2版）.pdf)
+- [《深入理解计算机系统》](./ComputerSystem/深入理解计算机系统.pdf)
+- [《现代操作系统（第4版）》](./ComputerSystem/现代操作系统（第3版）.pdf)
+- [《编码：隐匿在计算机软硬件背后的语言》](./ComputerSystem/编码：隐匿在计算机软硬件背后的语言.pdf)
+- [《计算机程序的构造和解释（第2版）》](./ComputerSystem/计算机程序的构造和解释（第2版）.pdf)
+- [《计算的本质：深入剖析程序和计算机》](./ComputerSystem/计算的本质：深入剖析程序和计算机.pdf)
 
 ## Linux
 
