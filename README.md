@@ -123,6 +123,7 @@
 - [《Redis入门指南（第2版）》](./redis/Redis入门指南（第2版）.pdf)
 - [《Redis实战》](./redis/Redis实战.pdf)
 - [《Redis设计与实现》](./redis/Redis设计与实现.pdf)
+- [《Redis开发与运维》](./redis/Redis开发与运维.pdf)
 
 ## Nginx
 
