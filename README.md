@@ -83,9 +83,9 @@
 
 ## TCP
 
-- [《TCP/IP详解 卷1：协议》](./TCP/TCP_IP详解卷1：协议.pdf)
-- [《TCP/IP详解 卷2：实现》](./TCP/TCP_IP详解卷2：实现.pdf)
-- [《TCP/IP详解 卷3：TCP事务协议，HTTP，NNTP和UNIX域协议》](./TCP/TCP_IP详解卷3：TCP事务协议，HTTP，NNTP和UNIX域协议.pdf)
+- [《TCP/IP详解 卷1：协议》](./tcp/TCP_IP详解卷1：协议.pdf)
+- [《TCP/IP详解 卷2：实现》](./tcp/TCP_IP详解卷2：实现.pdf)
+- [《TCP/IP详解 卷3：TCP事务协议，HTTP，NNTP和UNIX域协议》](./tcp/TCP_IP详解卷3：TCP事务协议，HTTP，NNTP和UNIX域协议.pdf)
 
 ## HTTP
 
@@ -167,7 +167,7 @@
 
 ## Test
 
-- [《测试驱动开发》](./Test/测试驱动开发.pdf)
+- [《测试驱动开发》](./test/测试驱动开发.pdf)
 
 ## Others
 
