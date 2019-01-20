@@ -4,6 +4,10 @@ Focus on concepts，not syntax.
 
 > 如有侵权，请联系删除！
 
+## Java
+
+- [《Java编程思想（第4版）》](./java/Java编程思想（第4版）.pdf)
+
 ## JavaScript
 
 - [《你不知道的JavaScript（上卷）》](./javascript/你不知道的JavaScript（上卷）.pdf)
