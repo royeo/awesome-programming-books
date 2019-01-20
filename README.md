@@ -146,6 +146,7 @@ Focus on concepts，not syntax.
 
 - [《Head First 设计模式》](./design-pattern/HeadFirst设计模式.pdf)
 - [《设计模式：可复用面向对象软件的基础》](./design-pattern/设计模式：可复用面向对象软件的基础.pdf)
+- [《设计模式之禅》](./design-pattern/设计模式之禅.pdf)
 
 ## Algorithms
 
