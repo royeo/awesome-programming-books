@@ -6,6 +6,7 @@ Focus on concepts，not syntax.
 
 ## Java
 
+- [《Effective Java 中文版（第2版）》](./java/Effective%20Java%20中文版（第2版）.pdf)
 - [《Java编程思想（第4版）》](./java/Java编程思想（第4版）.pdf)
 
 ## JavaScript
