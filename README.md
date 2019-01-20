@@ -1,6 +1,6 @@
 ## Preface
 
-> Focus on concepts，not syntax.
+Focus on concepts，not syntax.
 
 > 如有侵权，请联系删除！
 
