@@ -71,6 +71,7 @@
 - [《编码：隐匿在计算机软硬件背后的语言》](./computer-system/编码：隐匿在计算机软硬件背后的语言.pdf)
 - [《计算机程序的构造和解释（第2版）》](./computer-system/计算机程序的构造和解释（第2版）.pdf)
 - [《计算的本质：深入剖析程序和计算机》](./computer-system/计算的本质：深入剖析程序和计算机.pdf)
+- [《编译原理（第2版）》](./computer-system/编译原理（第2版）.pdf)
 
 ## Linux
 
@@ -83,10 +84,6 @@
 - [《深入Linux内核架构》](./linux/深入Linux内核架构.pdf)
 - [《深入理解linux内核（第三版）》](./linux/深入理解linux内核（第三版）.pdf)
 - [《跟我一起写makefile》](./linux/跟我一起写makefile.pdf)
-
-## Compile
-
-- [《编译原理（第2版）》](./compile/编译原理（第2版）.pdf)
 
 ## TCP
 
