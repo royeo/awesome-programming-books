@@ -64,7 +64,7 @@
 - [《Python Cookbook（第3版）》](./python/Python_Cookbook.pdf)
 - [《Python源码剖析》](./python/Python源码剖析.pdf)
 
-## ✨ Computer System
+## ✨ Computer system
 
 - [《深入理解计算机系统》](./computer-system/深入理解计算机系统.pdf)
 - [《现代操作系统（第4版）》](./computer-system/现代操作系统（第3版）.pdf)
@@ -136,7 +136,7 @@
 
 - [《深入理解Nginx：模块开发与架构解析（第2版）》](./nginx/深入理解Nginx：模块开发与架构解析（第2版）.pdf)
 
-## ✨ Clean Code
+## ✨ Clean code
 
 - [《代码整洁之道》](./clean-code/代码整洁之道.pdf)
 - [《代码大全》](./clean-code/代码大全.pdf)
@@ -147,7 +147,7 @@
 - [《程序设计实践》](./clean-code/程序设计实践.pdf)
 - [《领域驱动设计：软件核心复杂性应对之道》](./clean-code/领域驱动设计：软件核心复杂性应对之道.pdf)
 
-## ✨ Design Pattern
+## ✨ Design pattern
 
 - [《Head First 设计模式》](./design-pattern/HeadFirst设计模式.pdf)
 - [《设计模式：可复用面向对象软件的基础》](./design-pattern/设计模式：可复用面向对象软件的基础.pdf)
