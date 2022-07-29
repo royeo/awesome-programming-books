@@ -97,6 +97,8 @@
 - [《HTTP权威指南》](./http/HTTP权威指南.pdf)
 - [《Web性能权威指南》](./http/Web性能权威指南.pdf)
 - [《图解HTTP》](./http/图解HTTP.pdf)
+- [《HTTP/2基础教程》](./http/HTTP/2基础教程.pdf)
+- [《HTTP/2 in Action》](./http/HTTP2_in_Action.pdf)
 
 ## Clean code
 
